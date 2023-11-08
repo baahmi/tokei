@@ -782,6 +782,11 @@
       "name": "Jupyter Notebooks",
       "extensions": ["ipynb"]
     },
+    "JSP": {
+      "name": "Java Server Pages",
+      "multi_line_comments": [["<!--", "-->"], ["<%--", "--%>"]],
+      "extensions": ["jsp"]
+    },
     "K": {
       "name": "K",
       "nested": true,
