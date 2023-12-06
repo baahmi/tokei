@@ -150,7 +150,7 @@
       "name": "Bitbake",
       "line_comment": ["#"],
       "quotes": [["\\\"", "\\\""], ["'", "'"]],
-      "extensions": ["bb", "bbclass", "bbappend", "conf"]
+      "extensions": ["bb", "bbclass", "bbappend"]
     },
     "BrightScript": {
       "quotes": [["\\\"", "\\\""]],
