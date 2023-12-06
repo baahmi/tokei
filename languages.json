@@ -150,7 +150,7 @@
       "name": "Bitbake",
       "line_comment": ["#"],
       "quotes": [["\\\"", "\\\""], ["'", "'"]],
-      "extensions": ["bb", "bbclass", "bbappend", "inc", "conf"]
+      "extensions": ["bb", "bbclass", "bbappend", "conf"]
     },
     "BrightScript": {
       "quotes": [["\\\"", "\\\""]],
@@ -1066,7 +1066,7 @@
       "line_comment": ["#", "//"],
       "multi_line_comments": [["/*", "*/"]],
       "quotes": [["\\\"", "\\\""], ["'", "'"]],
-      "extensions": ["php"]
+      "extensions": ["php", "inc"]
     },
     "Poke": {
       "multi_line_comments": [["/*", "*/"]],
